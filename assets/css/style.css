@@ -144,6 +144,9 @@ input {
 .navbar__btn {
   gap: 1rem;
 }
+.navbar__links li:first-child a {
+  border-bottom: 1px solid var(--primary-color);
+}
 
 /* ---- end-navbar ---- */
 
